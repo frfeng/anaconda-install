@@ -23,7 +23,7 @@ The new window (see below) will give you the information under *System type*.
 
 - Double-click the downloaded file to start the installation. 
 
-- Use all of the defaults for installation except make sure to check "*Make Anaconda the default Python*".
+- Use all of the defaults for installation except make sure to check *Make Anaconda the default Python*.
 
 **Linux users**
 
@@ -32,7 +32,7 @@ The new window (see below) will give you the information under *System type*.
 - You will follow the text-only prompts. When there is a colon at the bottom of the screen, press the down arrow to move down through the text. 
     - Type `yes` and press <kbd>Enter</kbd> to approve the license. 
     - Press <kbd>Enter</kbd> to approve the default location for the files. 
-    - Type `yes` and press <kbd>Enter</kbd> to add Anaconda to your PATH (this makes the Anaconda distribution the default Python).
+    - Type `yes` and press <kbd>Enter</kbd> to add Anaconda to your PATH (this makes Anaconda the default Python).
 
 
 ## Launch Jupyter Notebook
@@ -45,7 +45,7 @@ First, you will need to launch your operating system's command-line interface.
 
 ![](./images/CLI.png)
 
-In the command-line interface, type `jupyter notebook` , and press <kbd>Enter</kbd> (Windows/Linux) or <kbd>return</kbd> (Mac).
+In the command-line interface, type in `jupyter notebook` , and press <kbd>Enter</kbd> (Windows/Linux) or <kbd>return</kbd> (Mac).
 
 ![](./images/launch-jupyter-windows.gif)
 
@@ -57,20 +57,20 @@ If not, copy and paste the URL from the window (starting with `http://localhost:
 Web browser recommendations: Chrome, Safari, Firefox.
 
 Now you should see the Jupter Notebook dashboard in your browser (see the image below). 
-You can navigate the directory to a desired folder, and then create a new notebook file by clicking the **New**▼ dropdown button (in the upper right corner), and then **Python 3**.
+You can navigate the directory to a desired folder, and then create a new notebook file by clicking the **New** ▼ dropdown button, and then **Python 3**.
 
 In the newly-created Jupyter notebook, try using Python as a calculator by typing `1 + 2` in the cell, and click the **Run** button on the tool bar.
 
-If everything's working, you should see the mind-numbingly obvious result of `3` in the output. Congrats!
+If everything's working, you should see the mind-numbingly obvious result of **3** in the output. Congrats!
 
 ![](./images/jupyter.gif)
 
 
-Note to keep the notebooks running, you can *not* close the command-line window that you used earlier, as it works as a notebook's "local host server" (you can certainly minimize the window). 
+Note to keep the notebooks running, you should *not* close the command-line window that you used earlier, as it works as a notebook's "local host server". 
 
 
 ## Further readings
 
-- [The (official) introduction to Jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
+- [The official introduction to Jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
 
 - [The scientific paper is obsolete - here's what's next](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) (in case you are interested in the backstory of the Jupyter notebook)
