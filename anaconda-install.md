@@ -5,17 +5,23 @@ We will use Anaconda, a common Python distribution bundled with other popular to
 ## Download
 
 Go to the [Anaconda download page](https://www.anaconda.com/products/individual#Downloads).
+You will see something similar to the screenshot below.
 
 ![](./images/anaconda_download.png)
 
 Download the installer that matches your operating system.
 
-**Windows users**: If you are not sure whether it's 64-bit (most likely) or 32-bit (uncommon), 
+**Mac users**: For most people the *64-Bit Graphical Installer* might be the easier option.
+
+**Windows users**: If you are not sure whether your system is 64-bit (most likely) or 32-bit (uncommon), 
 go to the search bar (the magnifying glass 🔎 in the lower left corner), 
 type in `this PC`, then right-click on it, and then select *Properties*. 
 The new window (see below) will give you the information under *System type*.  
 
-![](./images/Windows_64bit.png)
+<!-- ![](./images/Windows_64bit.png) -->
+<p align="center">
+<img src="./images/Windows_64bit.png" width="70%"/>
+</p>
 
 ## Install
 
