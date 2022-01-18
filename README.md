@@ -1,1 +1,3 @@
-# anaconda installation instructions
+# Anaconda installation instructions
+
+https://frfeng.github.io/anaconda-install/

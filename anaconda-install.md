@@ -71,9 +71,11 @@ If everything's working, you should see the mind-numbingly obvious result of **3
 
 ![](./images/jupyter.gif)
 
+## Miscellaneous
 
-Note to keep the notebooks running, you should *not* close the command-line window that you used earlier, as it works as a notebook's "local host server". 
+- Note to keep the notebooks running, you should *not* close the command-line window that you used earlier, as it works as a notebook's "local host server". 
 
+- If you wish to **open an existing Jupyter Notebook file** (i.e., a file with the **ipynb** extension), first launch Jupyter Notebook using the steps shown above, then in the Jupyter Notebook dashboard in your browser, navigate to the folder where the file that you wish to open is located, and then simply click on the file to open. 
 
 ## Further readings
 
