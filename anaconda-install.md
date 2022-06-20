@@ -11,7 +11,7 @@ You will see something similar to the screenshot below.
 
 Download the installer that matches your operating system.
 
-**Mac users**: For most people the *64-Bit Graphical Installer* might be the easier option.
+**Mac users**: For most people the *Graphical Installer* might be the easier option.
 
 **Windows users**: If you are not sure whether your system is 64-bit (most likely) or 32-bit (uncommon), 
 go to the search bar (the magnifying glass 🔎 in the lower left corner), 
